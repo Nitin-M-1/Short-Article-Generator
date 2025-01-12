@@ -1,5 +1,5 @@
 # Short Article Summaries Generator  
-<a href="https://shortarticlesummaries.vercel.app/">Demo</a>
+<a href="https://shortarticlesummaries.vercel.app/" target="_black">Demo</a><br/>
 🚀 **Summarize articles effortlessly with AI.**  
 
 ## Features  
