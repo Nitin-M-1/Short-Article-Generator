@@ -1,4 +1,4 @@
-# AI Article Summarizer  
+# Short Article Summaries Generator  
 
 🚀 **Summarize articles effortlessly with AI.**  
 
