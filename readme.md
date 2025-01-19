@@ -1,8 +1,8 @@
 # Short Article Summaries Generator  
 <a href="https://shortarticlesummaries.vercel.app/" target="_black">Live Demo</a><br/>
 ![Youtube Video](https://raw.githubusercontent.com/Nitin-M-1/Short-Article-Summaries-Generator/refs/heads/master/src/assets/image.png)(https://www.youtube.com/watch?v=cnHToOqKizE)
-\n
-🚀 **Summarize articles effortlessly with AI.**  
+
+##🚀 **Summarize articles effortlessly with AI.**  
 
 ## Features  
 - **Modern UI**: Clean, intuitive design.  
