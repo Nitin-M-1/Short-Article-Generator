@@ -1,5 +1,6 @@
 # Short Article Summaries Generator  
 <a href="https://shortarticlesummaries.vercel.app/" target="_black">Live Demo</a><br/>
+[![Video Title](https://vumbnail.com/YOUR_VIDEO_ID.jpg)](https://vimeo.com/YOUR_VIDEO_ID)
 🚀 **Summarize articles effortlessly with AI.**  
 
 ## Features  
